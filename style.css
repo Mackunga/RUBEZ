@@ -21,5 +21,5 @@ justify-content: space-between;
 
 .header-links{
     display: flex;
-    grid-area: 35px;
+    gap: 35px;
 }
